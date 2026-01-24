@@ -2,32 +2,32 @@
     "launcherLanguage": {
       "name": "language",
       "install": "install_all.bat",
-      "download": "https://samp.fivem-cache.com/lib/language.zip"
+      "download": "http://82.26.104.83/data/launcher/addon/language.zip"
     },
     "launcherDirectx": {
       "name": "directx",
       "install": "install_all.bat",
-      "download": "https://samp.fivem-cache.com/lib/directx.zip"
+      "download": "http://82.26.104.83/data/launcher/addon/directx.zip"
     },
     "launcherVc": {
       "name": "vc",
       "install": "install_all.bat",
-      "download": "https://samp.fivem-cache.com/lib/vc.zip"
+      "download": "http://82.26.104.83/data/launcher/addon/vc.zip"
     },
     "launcherVoice": {
       "name": "sampvoice",
-      "download": "https://samp.fivem-cache.com/lib/sampvoice.zip"
+      "download": "http://82.26.104.83/data/launcher/addon/sampvoice.zip"
     },
     "launcherEnb": {
       "name": "enbseries",
-      "download": "https://samp.fivem-cache.com/lib/enbseries.zip"
+      "download": "http://82.26.104.83/data/launcher/addon/enbseries.zip"
     },
     "launcherGames": {
-      "name": "ALLSTARGAMES_x64",
-      "download": "http://launcher.gta-allstar.com/launcher/ALLSTARGAMES_x64.zip"
+      "name": "FRIENDLY_x64",
+      "download": "http://141.11.159.68/launcher/FRIENDLY_x64.zip"
     },
     "launcherInstall": {
       "name": "ac-launcher_1.2.5_x64-setup",
-      "download": "https://host.gta-allstar.com/launcher/version/ac-launcher_1.2.5_x64-setup.exe"
+      "download": "http://141.11.159.68/launcher/version/ac-launcher_1.2.5_x64-setup.exe"
     }
 }
