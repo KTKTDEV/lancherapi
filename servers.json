@@ -3,11 +3,11 @@
     "launcherAddress": "friendly-city.com",
     "launcherPort": 7777,
     "launcherBanner": "https://img2.pic.in.th/bgdf058ad2c549a257.png",
-    "launcherWebsize": "http://www.gta-allstar.com/",
-    "launcherTopup": "http://www.gta-allstar.com/",
-    "launcherFacebook": "https://www.facebook.com/profile.php?id=61575889017893",
-    "launcherDiscord": "https://discord.gg/uPhP5WS2hk",
-    "launcherYoutube": "https://www.tiktok.com/@allstar.city7",
-    "launcherTiktok": "https://www.tiktok.com/@allstar.city7"
+    "launcherWebsize": "https://friendly-city.vercel.app/",
+    "launcherTopup": "https://friendly-city.vercel.app/login",
+    "launcherFacebook": "https://www.facebook.com/friendlycitysamp",
+    "launcherDiscord": "https://discord.gg/cRF4xUa7Fa",
+    "launcherYoutube": "https://www.tiktok.com",
+    "launcherTiktok": "https://www.tiktok.com"
   }
 }
